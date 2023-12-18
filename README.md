@@ -183,7 +183,6 @@ The following have been used on this project:
 - Run `debug.py` file to get ipdb terminal: ` python3 debug.py`
 
 ## Authors
-
-- [Suleiman Osman](https://github.com/suleosmann)
+Wachiuri Eric
 
 
